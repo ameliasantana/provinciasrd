@@ -1,0 +1,20 @@
+.body {
+    background-color: #FFFAF0;
+    font-family: sans-serif;
+}
+
+header {
+    color: #635F57;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.map {
+    position: fixed;
+    left: 860px;
+    z-index: 99; 
+    border: none; 
+    outline: none; 
+    padding: 15px;     
+}
+
+/*Colors used: #635F57; #FFFAF0; #DEC4B4. Fonts used: Times new Roman & San-serif */
